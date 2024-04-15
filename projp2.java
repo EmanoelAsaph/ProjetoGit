@@ -34,24 +34,7 @@ public class projp2 {
             System.out.println("====Escolha3==== : 'Vix!!! Agora me sinto muita respopnsabilidade em minhas costas, mas lá vai!!!\nPor que os fantasmas são péssimos para contar mentiras?\nPorque são transparentes.\n E aí?'\n");
         }
 
-        
-
-        
-
-
-
-        
-
-
-
-        
-            
-        
-
-
-
-
-
+    
     }
 
 }
