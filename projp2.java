@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class projp2 {
     public static void main(String[] args) throws Exception {
-        String varcap1;
         String escolha2;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Era uma vez um velho senhor chamado Arlindo. \nVivia em uma cidade pacata chamada lindocity,\ncidade essa que ele gostava muito,\n principalmente pela beleza do local e das pessoas.\nPorém em um dia de verão, ele estava mais feliz\ndo que de costume, pois estava na praia com\na sua amada família. Mas derrepente ele avistou na beira\nda praia o ser humano mais feio que ele já viu na vida.\nSeu nome era Jubiscreldo. Homem de pouca beleza, mas de\nmuita personalidade. Daí o nosso amado herói Arlindo pergunta a\n Jubiscreldo o seguinte:\n ");
